@@ -22,4 +22,3 @@ A Machine Learning-based web application that predicts the most suitable crop ba
 - HTML, CSS
 
 
-## 📂 Project Structure
